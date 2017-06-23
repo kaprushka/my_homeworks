@@ -1,0 +1,14 @@
+./news/_itartass1.xhtml	132
+./news/_itartass2.xhtml	112
+./news/_itartass3.xhtml	182
+./news/_itartass4.xhtml	125
+./news/_itartass5.xhtml	102
+./news/_rbk2.xhtml	481
+./news/_rbk3.xhtml	395
+./news/_rbk4.xhtml	567
+./news/_rbk6.xhtml	339
+./news/_rbk7.xhtml	194
+./news/_rian1.xhtml	313
+./news/_rian2.xhtml	271
+./news/_rian3.xhtml	170
+./news/_rian5.xhtml	222
